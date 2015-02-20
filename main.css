@@ -1,0 +1,18 @@
+a{
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -ms-filter: blur(3px);
+  -o-filter: blur(3px);
+  filter: blur(3px);
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:hover{
+  -webkit-filter: blur(0);
+  -moz-filter: blur(0);
+  -ms-filter: blur(0);
+  -o-filter: blur(0);
+  filter: blur(0);
+  transition-duration: 0.5s;
+}
