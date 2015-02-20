@@ -41,7 +41,7 @@
 	
 <h3>En bonus, le style du texte</h3>
 
-	.bloc-menu{
+	.blur-menu{
 		text-align: right;
 	}
 	
