@@ -5,6 +5,8 @@
 <p>Voici un exemple :</p>
 ![alt tag] (https://github.com/snowpact/blur-menu/blob/master/img/demo.png)
 
+https://jsfiddle.net/sabalotelli/4ucr3zz0/1/
+
 <h2>Tuto</h2>
 
 <h3>Création du menu HTML</h3>
