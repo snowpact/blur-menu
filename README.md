@@ -5,7 +5,7 @@
 <p>Voici un exemple :</p>
 ![alt tag] (https://github.com/snowpact/blur-menu/blob/master/img/demo.png)
 
-https://jsfiddle.net/sabalotelli/4ucr3zz0/1/
+https://jsfiddle.net/PierreChanel/4ucr3zz0/2/
 
 <h2>Tuto</h2>
 
