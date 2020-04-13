@@ -3,9 +3,9 @@
 <h2>Introduction</h2>
 <p>Ce petit tuto permet de faire un menu avec un style flou qui devient net au survole de la souris</p>
 <p>Voici un exemple :</p>
-![alt tag] (https://github.com/snowpact/blur-menu/blob/master/img/demo.png)
+![preview](https://raw.githubusercontent.com/snowpact/blur-menu/master/img/demo.png)
 
-https://jsfiddle.net/PierreChanel/4ucr3zz0/2/
+demo : https://jsfiddle.net/sabalotelli/3bm4dL7q/
 
 <h2>Tuto</h2>
 
